@@ -1,4 +1,4 @@
-package com.calculator;
+package java_calculator;
 
 import java.util.Objects;
 
